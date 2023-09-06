@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi There  :wave:
+What's Up my G, I am Ridge Benson, you already know that :joy:
 
 **HTML**
 **CSS**
