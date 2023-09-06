@@ -1,5 +1,5 @@
 ### Hi there 👋
-![WhatsApp Image 2023-09-01 at 15 46 56](https://github.com/RBeNturi/RBeNturi/assets/107855953/9a935a90-b900-4432-be70-c5b0eeac8b56)
+
 
 <!--
 **RBeNturi/RBeNturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
