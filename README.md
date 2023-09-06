@@ -1,3 +1,7 @@
+### Hi there 👋
+![Gold Luxury Initial Circle Logo](https://github.com/RBeNturi/RBeNturi/assets/107855953/0d13aa19-3067-4771-afd7-504bc55b3036)
+![Gold Luxury Initial Circle Logo (1)](https://github.com/RBeNturi/RBeNturi/assets/107855953/31d9fe70-9af4-45d1-a46a-eccea636048a)
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="![Gold Luxury Initial Circle Logo](https://github.com/RBeNturi/RBeNturi/assets/107855953/41db7c11-c22c-487e-87d7-40c8c7ea3c62)
 ">
@@ -6,8 +10,6 @@
  <img alt="YOUR-ALT-TEXT" src="![Gold Luxury Initial Circle Logo](https://github.com/RBeNturi/RBeNturi/assets/107855953/fc8add28-1ad0-49a2-b88b-f9d92103f2b5)
 ">
 </picture>
-
-### Hi there 👋
 
 **HTML**
 **CSS**
