@@ -1,6 +1,6 @@
 ### Hi There  :wave:
 What's Up my G, I am Ridge Benson, you already know that :joy:
-
+I write
 **HTML**
 **CSS**
 **JavaScript** for front-end development
