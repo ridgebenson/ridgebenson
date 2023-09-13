@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbenturi" alt="rbenturi" /></a> </p>
 
-- 🔭 I’m currently working on **Developing websites purely built on React.js and Node.js**
+- 🔭 I’m currently working on **Developing websites built on React.js and Node.js**
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
