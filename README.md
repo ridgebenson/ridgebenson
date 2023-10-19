@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbenturi" alt="rbenturi" /></a> </p>
 
-- 🔭 I’m currently working on **Developing websites built on React.js and Node.js**
+- 🔭 I’m currently working on **Developing websites built on HTML, BootStrap, and Django**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **Python and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RBeNturi](https://github.com/RBeNturi)
 
-- 💬 Ask me about **Azure, Git & GitHub, JavaScript**
+- 💬 Ask me about **Writing one and zeros in a meaningful order**
 
 - 📫 How to reach me **ridgemuturi@gmail.com**
 
