@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbenturi" alt="rbenturi" /></a> </p>
 
-- 🔭 I’m currently working on **Developing websites built on HTML, BootStrap, and Django**
+- 🔭 I’m currently working on **Developing web systems built on Django**
 
 - 🌱 I’m currently learning **Python Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RBeNturi](https://github.com/RBeNturi)
 
-- 💬 Ask me about **Writing zeros and ones**
+- 💬 Ask me about **writing zeros and ones**
 
 - 📫 How to reach me **ridgemuturi@gmail.com**
 
