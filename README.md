@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Developing websites built on HTML, BootStrap, and Django**
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Python Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RBeNturi](https://github.com/RBeNturi)
 
-- 💬 Ask me about **Writing one and zeros in a meaningful order**
+- 💬 Ask me about **Writing zeros and ones**
 
 - 📫 How to reach me **ridgemuturi@gmail.com**
 
-- 📄 Know about my experiences [https://black-desert-086ca7f03.2.azurestaticapps.net/](https://black-desert-086ca7f03.2.azurestaticapps.net/)
+- 📄 Know about my experiences [https://black-desert-086ca7f03.2.azurestaticapps.net/](https://black-desert-086ca7f03.2.azurestaticapps.net/) (Still in development)
 
 - ⚡ Fun fact **I love singing #codesandchords**
 
