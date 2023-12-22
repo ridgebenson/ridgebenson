@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ridgemuturi@gmail.com**
 
-- 📄 Know about my experiences [https://black-desert-086ca7f03.2.azurestaticapps.net/](https://black-desert-086ca7f03.2.azurestaticapps.net/) (Still in development)
+- 📄 Know about my experiences [https://black-desert-086ca7f03.2.azurestaticapps.net/](https://black-desert-086ca7f03.2.azurestaticapps.net/) (Still under development)
 
 - ⚡ Fun fact **I love singing #codesandchords**
 
