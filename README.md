@@ -7,9 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rbenturi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Developing web systems built on Django**
+- 🔭 I’m currently working on **fullstack web projects**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **web technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RBeNturi](https://github.com/RBeNturi)
 
