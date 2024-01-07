@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **fullstack web projects**
 
-- 🌱 I’m currently learning **web technologies**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RBeNturi](https://github.com/RBeNturi)
 
