@@ -5,7 +5,7 @@
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbenturi" alt="rbenturi" /></a> </p-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rbenturi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rbenturi&theme=onedark)](https://github.com/rbenturi/github-profile-trophy)
 
 - 🔭 I’m currently working on **fullstack web projects**
 
