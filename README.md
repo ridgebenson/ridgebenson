@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbenturi&show_icons=true&locale=en" alt="rbenturi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbenturi&" alt="rbenturi" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RBeNturi)](https://git.io/streak-stats)
