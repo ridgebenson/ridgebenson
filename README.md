@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbenturi&show_icons=true&locale=en" alt="rbenturi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbenturi&" alt="rbenturi" /></p>
+
+<img src="https://raw.githubusercontent.com/RBeNturi/RBeNturi/output/snake.svg" alt="Snake animation" />
