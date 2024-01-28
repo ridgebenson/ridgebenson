@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rbenturi&theme=onedark)](https://github.com/rbenturi/github-profile-trophy)
 
-- 🔭 I’m currently working on **fullstack web projects**
+- 🔭 I’m currently working on **a fullstack web project using Next.js**
 
 - 🌱 I’m currently learning **Next.js**
 
