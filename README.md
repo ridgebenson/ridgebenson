@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbenturi&label=Profile%20views&color=0e75b6&style=flat" alt="rbenturi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbenturi" alt="rbenturi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbenturi&theme=onedark" alt="rbenturi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ridge_benson" target="blank"><img src="https://img.shields.io/twitter/follow/ridge_benson?logo=twitter&style=for-the-badge" alt="ridge_benson" /></a> </p>
 
