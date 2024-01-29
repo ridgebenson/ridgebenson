@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on [SmartNotes](https://github.com/RBeNturi/SmartNotes)
 
-- 🌱 I’m currently learning **Next.js at https://nextjs.org/learn**
+- 🌱 I’m currently learning **[Next.js](https://nextjs.org/learn)**
 
-- 👯 I’m looking to collaborate on [Huduma Health Web Application](https://github.com/RBeNturi/Huduma-Health)
+- 👯 I’m looking to collaborate on [Huduma Health](https://github.com/RBeNturi/Huduma-Health)
 
-- 🤝 I’m looking for help with [Sending emails using Django in my personal portfolio website](https://github.com/RBeNturi/Personal-Website)
+- 🤝 I’m looking for help with [sending emails using Django in my personal portfolio website](https://github.com/RBeNturi/Personal-Website)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RBeNturi](https://github.com/RBeNturi)
+- 👨‍💻 All of my projects are available in [my GitHub Account](https://github.com/RBeNturi)
 
 - 💬 Ask me about **writing zeros and ones.**
 
 - 📫 How to reach me **ridgemuturi@gmail.com**
 
-- 📄 Know about my experiences [https://black-desert-086ca7f03.2.azurestaticapps.net/](https://black-desert-086ca7f03.2.azurestaticapps.net/)
+- 📄 Know about my experiences in [my portfolio (still under development)](https://black-desert-086ca7f03.2.azurestaticapps.net/)
 
 - ⚡ Fun fact **I love singing #codesnchords**
 
