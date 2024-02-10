@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **[Next.js](https://nextjs.org/learn)**
 
-- 👯 I’m looking to collaborate on [Huduma Health](https://github.com/RBeNturi/Huduma-Health)
+- 👯 I’m looking to collaborate on Django projects.
 
 - 🤝 I’m looking for help with [sending emails using Django in my personal portfolio website](https://github.com/RBeNturi/Personal-Website)
 
