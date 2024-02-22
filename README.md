@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridge Benson</h1>
-<h3 align="center">A Web Developer from Kenya</h3>
+<h3 align="center">A Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridgebenson&label=Profile%20views&color=0e75b6&style=flat" alt="ridgebenson's profile views" /> </p>
 
@@ -7,17 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ridge_benson" target="blank"><img src="https://img.shields.io/twitter/follow/ridge_benson?logo=twitter&style=for-the-badge" alt="ridge_benson" /></a> </p>
 
-- 🔭 I’m currently working on [SmartNotes](https://github.com/ridgebenson/SmartNotes)
-
-- 🌱 I’m currently learning **[Next.js](https://nextjs.org/learn)**
-
-- 👯 I’m looking to collaborate on Django projects.
-
-- 🤝 I’m looking for help with [sending emails using Django in my personal portfolio website](https://github.com/ridgebenson/Personal-Website)
-
 - 👨‍💻 All of my projects are available in [my GitHub Account](https://github.com/ridgebenson)
 
-- 💬 Ask me about **writing zeros and ones.**
+- 💬 Ask me about writing zeros and ones.
 
 - 📫 How to reach me **ridgemuturi@gmail.com**
 
