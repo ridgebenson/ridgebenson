@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridge Benson</h1>
-<h3 align="center">A Developer from Kenya</h3>
+<h3 align="center">A Web Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridgebenson&label=Profile%20views&color=0e75b6&style=flat" alt="ridgebenson's profile views" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about writing zeros and ones.
 
-- 📫 How to reach me **ridgemuturi@gmail.com**
+- 📫 Reach me @ **ridgemuturi@gmail.com**
 
 - 📄 Know about my experiences in [my portfolio (still under development)](https://black-desert-086ca7f03.2.azurestaticapps.net/)
 
