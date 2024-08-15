@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridge Benson</h1>
 <h3 align="center">A Web Developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridgebenson&label=Profile%20views&color=0e75b6&style=flat" alt="ridgebenson's profile views" /> </p>
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=ridgebenson&label=Profile%20views&color=0e75b6&style=flat" alt="ridgebenson's profile views" /> </p-->
+
+![animation](https://github.com/ridgebenson/ridgebenson/blob/resources/snake.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridgebenson&theme=onedark" alt="ridgebenson's guthub profile" /></a> </p>
 
