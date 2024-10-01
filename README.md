@@ -76,7 +76,8 @@
 <div align="center">
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=ridgebenson&theme=onedark" alt="ridgebenson's github profile" />    
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ridgebenson&show_icons=true&locale=en" alt="ridgebenson's stats" />   
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ridgebenson&" alt="ridgebenson's streak" /> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ridgebenson" alt="ridgebenson's streak" />
+<!--      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridgebenson)](https://git.io/streak-stats) -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridgebenson&show_icons=true&locale=en&layout=compact" alt="ridgebenson's top languages" />
      
 </div>
