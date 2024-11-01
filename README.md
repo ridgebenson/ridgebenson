@@ -78,7 +78,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ridgebenson&show_icons=true&locale=en" alt="ridgebenson's stats" />   
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ridgebenson" alt="ridgebenson's streak" />
 <!--      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridgebenson)](https://git.io/streak-stats) -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridgebenson&show_icons=true&locale=en&layout=compact" alt="ridgebenson's top languages" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridgebenson&show_icons=true&locale=en&layout=compact" alt="ridgebenson's top languages" /> -->
      
 </div>
 
